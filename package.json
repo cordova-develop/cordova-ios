@@ -51,7 +51,7 @@
   },
   "engineStrict": true,
   "dependencies": {
-    "cordova-common": "2.1.0",
+    "cordova-common": "https://github.com/cordova-develop/cordova-common.git#dev_improve_cocoapod_support",
     "ios-sim": "^6.1.2",
     "nopt": "^3.0.6",
     "plist": "^1.2.0",
